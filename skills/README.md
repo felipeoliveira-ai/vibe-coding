@@ -33,7 +33,25 @@ Faz o Claude olhar o que já existe antes de escrever e escrever só o código n
 /plugin install ponytail@ponytail
 ```
 
+No terminal: `claude plugin marketplace add DietrichGebert/ponytail && claude plugin install ponytail@ponytail`
+
 Repositório: https://github.com/DietrichGebert/ponytail
+
+### Caveman
+
+Faz o Claude responder curto e direto, sem enrolação, mantendo os comandos e os detalhes técnicos. Menos texto para
+você ler. O criador diz que corta cerca de 65% dos tokens.
+
+```text
+/plugin marketplace add JuliusBrussee/caveman
+/plugin install caveman@caveman
+```
+
+No terminal: `claude plugin marketplace add JuliusBrussee/caveman && claude plugin install caveman@caveman`
+
+Para desligar numa conversa, escreva "normal mode".
+
+Repositório: https://github.com/JuliusBrussee/caveman
 
 ### Graphify
 
