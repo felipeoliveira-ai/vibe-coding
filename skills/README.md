@@ -101,6 +101,17 @@ npx skills add anthropics/skills --skill frontend-design
 
 Repositório: https://github.com/anthropics/skills
 
+### Taste (design-taste-frontend)
+
+Dá ao Claude "bom gosto" para sites: direção de arte, imagens de referência e uma conferência no navegador, para a
+página não sair com cara de feita por IA. Precisa do Node.
+
+```bash
+npx skills add leonxlnx/taste-skill
+```
+
+Repositório: https://github.com/leonxlnx/taste-skill
+
 ### Impeccable
 
 Ajuda a tirar a cara de site feito por IA. Precisa do Node.
