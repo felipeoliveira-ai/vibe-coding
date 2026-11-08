@@ -6,7 +6,7 @@ Tudo em português, com o que instalar, os comandos e o que eu medi de verdade.
 ## Comece por aqui
 
 1. Ache, na lista abaixo, o vídeo que você viu.
-2. Toque no nome da pasta, na coluna **Passo a passo**.
+2. Toque em **Abrir o passo a passo**.
 3. Siga o guia de cima para baixo.
 
 Você não precisa criar conta no GitHub para ler nem para copiar nada.
@@ -17,12 +17,37 @@ Nunca usou o Claude Code ou o terminal? Leia antes os [Primeiros passos](primeir
 
 O mais novo fica em cima.
 
-| Vídeo | Para que serve | Você vai precisar de | Passo a passo |
-|---|---|---|---|
-| [5 skills para o Claude](https://www.instagram.com/reel/DfdS4-ZjsrB/) | Deixar o Claude mais cuidadoso: planejar, testar, revisar a segurança e escrever menos código | Claude Code | [5-skills-claude](5-skills-claude/) |
-| [Um cara só, 3 personagens](https://www.instagram.com/reel/DfXCE8FjVyx/) | Virar personagens com a sua voz e o seu jeito, gravando só no celular | Conta paga na ElevenLabs | [personagens-com-ia](personagens-com-ia/) |
-| [Editar Reel com o Claude](https://www.instagram.com/reel/DfVfO6uhPdV/) | Fazer o Claude editar os seus vídeos, com legenda e efeitos | Claude Code | [editar-reel-com-claude](editar-reel-com-claude/) |
-| [O fim do MCP?](https://www.instagram.com/reel/DfVB9xfhrBF/) | Medir quanto cada MCP pesa na memória do seu agente de IA | Claude Code | [medir-mcp](medir-mcp/) |
+### 5 skills para o Claude
+
+Deixar o Claude mais cuidadoso: planejar, testar, revisar a segurança e escrever menos código.
+
+Você vai precisar de: Claude Code.
+
+**[Abrir o passo a passo](5-skills-claude/)** · [Ver o vídeo](https://www.instagram.com/reel/DfdS4-ZjsrB/)
+
+### Um cara só, 3 personagens
+
+Virar personagens com a sua voz e o seu jeito, gravando só no celular.
+
+Você vai precisar de: conta paga na ElevenLabs.
+
+**[Abrir o passo a passo](personagens-com-ia/)** · [Ver o vídeo](https://www.instagram.com/reel/DfXCE8FjVyx/)
+
+### Editar Reel com o Claude
+
+Fazer o Claude editar os seus vídeos, com legenda e efeitos.
+
+Você vai precisar de: Claude Code.
+
+**[Abrir o passo a passo](editar-reel-com-claude/)** · [Ver o vídeo](https://www.instagram.com/reel/DfVfO6uhPdV/)
+
+### O fim do MCP?
+
+Medir quanto cada MCP pesa na memória do seu agente de IA.
+
+Você vai precisar de: Claude Code.
+
+**[Abrir o passo a passo](medir-mcp/)** · [Ver o vídeo](https://www.instagram.com/reel/DfVB9xfhrBF/)
 
 ## Não quer digitar comando?
 
