@@ -1,6 +1,6 @@
 # Personagens com IA: 1 pessoa, 3 personagens
 
-Do Reel: https://www.instagram.com/reel/DfXCE8FjVyx/ · [Voltar ao kit](../README.md)
+Do Reel: https://www.instagram.com/reel/DfXCE8FjVyx/ · [Voltar ao início](../README.md)
 
 Eu gravei as falas no celular e virei astronauta, detetive e velho mestre. É assim que eu fiz. Preços e telas lidos em 04/11/2026.
 

@@ -1,6 +1,6 @@
 # Medir MCP
 
-Do Reel: https://www.instagram.com/reel/DfVB9xfhrBF/ · [Voltar ao kit](../README.md)
+Do Reel: https://www.instagram.com/reel/DfVB9xfhrBF/ · [Voltar ao início](../README.md)
 
 Quanto cada MCP ocupa na memória do seu agente de IA? E como ligar o servidor da Cloudflare do jeito que gasta menos.
 
@@ -31,10 +31,10 @@ permissão deixar, inclusive mudar o DNS dos seus sites no ar.
 Instale a skill (no terminal, ou peça para o Claude rodar):
 
 ```bash
-npx skills add felipeoliveira-ai/kit-ia --skill medir-mcp
+npx skills add felipeoliveira-ai/vibe-coding --skill medir-mcp
 ```
 
-E peça no Claude Code: "mede quanto o MCP tal ocupa". Sem a skill, baixe este kit e rode de dentro da pasta dele (no Windows, use `python` no lugar de `python3`):
+E peça no Claude Code: "mede quanto o MCP tal ocupa". Sem a skill, baixe este repositório e rode de dentro da pasta dele (no Windows, use `python` no lugar de `python3`):
 
 ```bash
 python3 skills/medir-mcp/medir_mcp.py "https://mcp.context7.com/mcp"
