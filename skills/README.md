@@ -90,6 +90,17 @@ Repositório: https://github.com/LottieFiles/motion-design-skill
 
 ## Para sites e segurança
 
+### Frontend Design, da Anthropic
+
+Faz o Claude caprichar no visual de sites e telas: ele escolhe uma direção, as fontes e as cores, em vez do visual
+padrão de IA. É a skill oficial da Anthropic. Precisa do Node.
+
+```bash
+npx skills add anthropics/skills --skill frontend-design
+```
+
+Repositório: https://github.com/anthropics/skills
+
 ### Impeccable
 
 Ajuda a tirar a cara de site feito por IA. Precisa do Node.
