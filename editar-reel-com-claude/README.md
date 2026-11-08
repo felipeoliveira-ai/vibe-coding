@@ -1,6 +1,6 @@
 # Editar Reel com o Claude
 
-Do Reel: https://www.instagram.com/reel/DfVfO6uhPdV/ · [Voltar ao início](../README.md)
+Do Reel: https://www.instagram.com/reel/DfVfO6uhPdV/ · [Voltar ao início](../README.md) · Primeira vez? [Primeiros passos](../primeiros-passos/)
 
 Você precisa de 3 coisas.
 
