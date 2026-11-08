@@ -1,25 +1,26 @@
-# Primeiros passos
+# Claude Code: comece por aqui
 
 [Voltar ao início](../README.md)
-
-O básico para seguir qualquer guia daqui, mesmo sem nunca ter programado. Informações conferidas na documentação
-oficial em 08/11/2026.
 
 ## 1. O que é o Claude Code
 
 É o assistente de IA da Anthropic que trabalha no seu computador: ele lê arquivos, roda comandos e monta coisas
-para você. Você conversa com ele em português.
+para você. Você conversa com ele em português, como num chat.
 
 Para usar, você precisa de uma assinatura do Claude (Pro, Max, Ultra, Team ou Enterprise) ou de uma conta no
 Claude Console. Planos e preços: https://claude.com/pricing
 
-## 2. Instale o Claude Code
+**O jeito mais fácil de começar:** baixe o aplicativo do Claude, abra, entre na sua conta e toque na aba **Code**.
+Não precisa de terminal.
 
-**Jeito mais fácil, sem terminal:** baixe o aplicativo do Claude para computador e use o Claude Code dentro dele.
+<a href="https://claude.com/download"><img src="https://img.shields.io/badge/Baixar_o_Claude-E0612F?style=for-the-badge" alt="Baixar o aplicativo do Claude" height="40"></a>
 
-https://claude.com/download
+Informações conferidas na documentação oficial em 08/11/2026.
 
-**Pelo terminal:** abra o terminal (veja o passo 3), cole o comando do seu sistema e aperte Enter.
+## 2. Instalar pelo terminal (opcional)
+
+Se preferir o terminal em vez do aplicativo: abra o terminal (veja o passo 3), cole o comando do seu sistema e aperte
+Enter.
 
 No Mac:
 

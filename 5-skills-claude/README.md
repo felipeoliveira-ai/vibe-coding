@@ -1,6 +1,6 @@
 # 5 skills para o Claude Code
 
-Do Reel: https://www.instagram.com/reel/DfdS4-ZjsrB/ · [Voltar ao início](../README.md) · Primeira vez? [Primeiros passos](../primeiros-passos/)
+Do Reel: https://www.instagram.com/reel/DfdS4-ZjsrB/ · [Voltar ao início](../README.md) · Primeira vez? [Comece pelo Claude Code](../claude-code/)
 
 Manual em português para instalar cada uma, na ordem do vídeo. Precisa do [Claude Code](https://code.claude.com/docs) instalado.
 

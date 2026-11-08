@@ -1,6 +1,6 @@
 # Medir MCP
 
-Do Reel: https://www.instagram.com/reel/DfVB9xfhrBF/ · [Voltar ao início](../README.md) · Primeira vez? [Primeiros passos](../primeiros-passos/)
+Do Reel: https://www.instagram.com/reel/DfVB9xfhrBF/ · [Voltar ao início](../README.md) · Primeira vez? [Comece pelo Claude Code](../claude-code/)
 
 Quanto cada MCP ocupa na memória do seu agente de IA? E como ligar o servidor da Cloudflare do jeito que gasta menos.
 
